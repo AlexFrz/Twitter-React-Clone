@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## THE URL OF THE HOSTED PROJECT : https://twitter-clone-358c7.web.app/
 
 In the project directory, you can run:
 
